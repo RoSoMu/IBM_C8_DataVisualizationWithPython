@@ -26,8 +26,11 @@ IBM Professional Certificate in Data Science Course 8: 9 x Labs, 5 x Instruction
 ## Module 4
  * Course8_M4_L1: Plotly Basics
  * Course8_M4_L2 (PDF): Dash Basics: HTML and Core Components -Instructions
+ * Course8_M4_L2: Dash Basics: HTML and Core Components 
  * Course8_M4_L3 (PDF): Add Interactive: User Input and Callbacks -Instructions
+ * Course8_M4_L3: Add Interactive: User Input and Callbacks
  * Course8_M4_L4 (PDF): Flight Delay and Time Statistics Dashboard -Instructions
+ * Course8_M4_L4: Flight Delay and Time Statistics Dashboard
 ## Module 5
  * Course8_M5_L1: Practice Assignment 1 - Wildfire activity in Australia Analysis -Matplotlib, Seaborn, Folium
  * Course8_M5_L2 (PDF): Practice Assignment 2 - Wildfire activity in Australia Dashboard (Plotly and Dash) -Instructions
