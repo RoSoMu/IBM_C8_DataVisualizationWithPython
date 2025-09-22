@@ -25,8 +25,9 @@ IBM Professional Certificate in Data Science Course 8: 9 x Labs, 5 x Instruction
  * C8M3L2_13_Screenshot_Choropleth: Canada Immigration Map
 ## Module 4
  * Course8_M4_L1: Plotly Basics
- * Course8_M4_L2 (PDF): Dash Basics: HTML and Core Components -Instructions
- * Course8_M4_L2: Dash Basics: HTML and Core Components 
+ * Course8_M4_L2 (PDF): Dash Basics - HTML and Core Components -Instructions
+ * Course8_M4_L2: Dash Basics - HTML and Core Components
+ * C8M4L2_Dash_1_Screenshot: Dash Basics - HTML and Core Components 
  * Course8_M4_L3 (PDF): Add Interactive: User Input and Callbacks -Instructions
  * Course8_M4_L3: Add Interactive: User Input and Callbacks
  * Course8_M4_L4 (PDF): Flight Delay and Time Statistics Dashboard -Instructions
