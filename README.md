@@ -28,8 +28,11 @@ IBM Professional Certificate in Data Science Course 8: 9 x Labs, 5 x Instruction
  * Course8_M4_L2 (PDF): Dash Basics - HTML and Core Components -Instructions
  * Course8_M4_L2: Dash Basics - HTML and Core Components
  * C8M4L2_Dash_1_Screenshot: Dash Basics - HTML and Core Components 
- * Course8_M4_L3 (PDF): Add Interactive: User Input and Callbacks -Instructions
- * Course8_M4_L3: Add Interactive: User Input and Callbacks
+ * Course8_M4_L3 (PDF): Add Interactions: User Input and Callbacks -Instructions
+ * Course8_M4_L3_1: Add Interactions: User Input and Callbacks, Line Plot
+ * Course8_M4_L3_2: Add Interactions: User Input and Callbacks, Bar Plot
+ * C8M4L3_Dash_2_Screenshot: Dash_Interactions_Callback_LinePlot
+ * C8M4L3_Dash_3_Screenshot: Dash_Interactions_Callback_BarPlot 
  * Course8_M4_L4 (PDF): Flight Delay and Time Statistics Dashboard -Instructions
  * Course8_M4_L4: Flight Delay and Time Statistics Dashboard
 ## Module 5
