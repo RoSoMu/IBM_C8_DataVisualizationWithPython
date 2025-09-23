@@ -1,5 +1,5 @@
 # Data Visualization With Python
-IBM Professional Certificate in Data Science Course 8: 9 x Labs, 5 x Instructions PDFs + 13 x Screenshots
+IBM Professional Certificate in Data Science Course 8: 16 x Labs, 5 x Instructions PDFs, 21 x Screenshots
 ## Module 1
  * Course8_M1_L1: Preprocessing and Exploring Data with Pandas
  * Course8_M1_L2: Introduction to Matplotlib and Line Plots 
