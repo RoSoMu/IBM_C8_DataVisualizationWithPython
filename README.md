@@ -42,7 +42,8 @@ IBM Professional Certificate in Data Science Course 8: 9 x Labs, 5 x Instruction
  * Course8_M5_L2 (PDF): Practice Assignment 2 - Wildfire activity in Australia Dashboard (Plotly and Dash) -Instructions
  * Course8_M5_L2: Practice Assignment 2 - Wildfire activity in Australia Dashboard (Plotly and Dash)
  * C8M5L2_Dash_5_Screenshot: Wildfire activity in Australia Dashboard
- * Course8_M5_L3: Final Assignment 1 - Automobile Sales Recession -Matplotlib, Seaborn, Choropleth
- * C8M5L3_Choropleth_Screenshot: Automobile Sales Recession
+ * Course8_M5_L3: Final Assignment 1 - Automobile Sales Recession Analysis -Matplotlib, Seaborn, Choropleth
+ * C8M5L3_Choropleth_Screenshot: Automobile Sales Recession Analysis
  * Course8_M5_L4 (PDF): Final Assignment 2 - Automobile Sales Dashboard (Plotly and Dash) -Instructions
  * Course8_M5_L4: Final Assignment 2 - Automobile Sales Dashboard (Plotly and Dash)
+ * C8M5L4_Dash_6_Screenshot: Automobile Sales Dashboard
