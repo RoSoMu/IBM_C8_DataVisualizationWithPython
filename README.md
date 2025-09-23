@@ -40,4 +40,6 @@ IBM Professional Certificate in Data Science Course 8: 9 x Labs, 5 x Instruction
  * Course8_M5_L1: Practice Assignment 1 - Wildfire activity in Australia Analysis -Matplotlib, Seaborn, Folium
  * C8M5L1_Folium_13_Screenshot: Wildfire activity in Australia Analysis
  * Course8_M5_L2 (PDF): Practice Assignment 2 - Wildfire activity in Australia Dashboard (Plotly and Dash) -Instructions
+ * Course8_M5_L2: Practice Assignment 2 - Wildfire activity in Australia Dashboard (Plotly and Dash)
+ * C8M5L2_Dash_5_Screenshot: Wildfire activity in Australia Dashboard
  * Course8_M5_L3 (PDF): Final Assignment - Automobile Sales Dashboard (Plotly and Dash) -Instructions
