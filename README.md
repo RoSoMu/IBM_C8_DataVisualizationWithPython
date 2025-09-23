@@ -38,5 +38,6 @@ IBM Professional Certificate in Data Science Course 8: 9 x Labs, 5 x Instruction
  * C8M4L4_Dash_4_Screenshot: Flight Delay and Time Statistics
 ## Module 5
  * Course8_M5_L1: Practice Assignment 1 - Wildfire activity in Australia Analysis -Matplotlib, Seaborn, Folium
+ * C8M5L1_Folium_13_Screenshot: Wildfire activity in Australia Analysis
  * Course8_M5_L2 (PDF): Practice Assignment 2 - Wildfire activity in Australia Dashboard (Plotly and Dash) -Instructions
  * Course8_M5_L3 (PDF): Final Assignment - Automobile Sales Dashboard (Plotly and Dash) -Instructions
